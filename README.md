@@ -7,15 +7,14 @@ Author: Andrea Riley(Thiel)
 ## Links and Resources
 
 Setup
-.env requirements 
+.env requirements
 
     .venv
 
-
-How to initialize/run your application (where applicable)
-
-e.g. python main.py
 How to use your library (where applicable)
+
+    pip install requirements.txt
 
 Tests
 
+    pytest tests/test_linked_list_iterator.py
